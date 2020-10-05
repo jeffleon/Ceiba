@@ -12,6 +12,10 @@ You have to install the dependencies below
     
     * npm install
 
+## Documentation
+
+The documentation of API its ubicate in the endpoint 'api/api-docs'
+
 ## ## Available Scripts
 
 In the project directory, you can run:
