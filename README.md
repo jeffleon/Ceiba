@@ -1,10 +1,10 @@
 ## Configuration
-1. Create a user Ceiba whit Password Ceiba
-    *CREATE USER 'CEIBA'@'localhost' IDENTIFIED BY 'CEIBA';
-2. Get permissions for this user 
-    *GRANT ALL PRIVILEGES ON * . * TO 'CEIBA'@'localhost';
-3. Finally create a Database with the name 
-    *CREATE DATABASE pruebaingresoceiba
+Create a user Ceiba whit Password Ceiba
+    * CREATE USER 'CEIBA'@'localhost' IDENTIFIED BY 'CEIBA';
+Get permissions for this user 
+    * GRANT ALL PRIVILEGES ON * . * TO 'CEIBA'@'localhost';
+Finally create a Database with the name 
+    * CREATE DATABASE pruebaingresoceiba
 
 ## Install Dependencies 
 
